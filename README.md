@@ -5,4 +5,5 @@ Learning about CSS pseudo selectors by building a balance sheet [Balance Sheet c
 ### Screenshot
 
 <img width="550" alt="image" src="https://github.com/gab-holik/freeCodeCamp---Balance-Sheet/assets/97192580/98bd0732-0a8b-4686-ba59-8f93b309941b">
+
 Figure 1: Balance Sheet Preview
